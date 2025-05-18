@@ -4,6 +4,10 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding gif"/>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=61DAFB&center=true&vCenter=true&width=450&lines=Hi,+I'm+Moaz!;Junior+Front-End+Engineer;Let's+Code+Together!" alt="Typing SVG" />
+</p>
+
 ---
 
 ## 🧑‍💻 About Me
@@ -49,6 +53,8 @@
 ## 📬 Connect with me
 
 - 📧 Email: [moazhasib24@gmail.com](mailto:moazhasib24@gmail.com)
+- 🐦 Follow me on GitHub:  
+  ![GitHub followers](https://img.shields.io/github/followers/MoazIbrahim3?label=Follow&style=social)
 
 ---
 
